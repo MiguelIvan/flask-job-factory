@@ -24,3 +24,5 @@ and finally:
 $ python servers/http_api.py
 
 I hope you find this useful.
+
+NOTE: This is not and doesn't include any OCR software!
