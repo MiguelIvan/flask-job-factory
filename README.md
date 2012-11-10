@@ -26,3 +26,6 @@ $ python servers/http_api.py
 I hope you find this useful.
 
 NOTE: This is not and doesn't include any OCR software!
+
+*This is not too much but is released as GPL, have you heard that? yes! it's
+GPL'ed!
